@@ -11,7 +11,7 @@ This extension is based on the [publicationlist](https://github.com/produnis/pub
 
 To use this extension, execute the following command:
 
-`quarto use template produnis/qaurto-cv`
+`quarto use template produnis/quarto-cv`
 
 
 ## Usage
