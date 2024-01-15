@@ -58,18 +58,18 @@ $endif$
 
 $body$
 
+$if(publikationen)$
 %----------CAVE ! --------------------------------------------
 % this "\nocite{*}" command has to be set. 
 % it will mark all non-cited entries for bibliography.
 % Otherwise, you will get "empty bibliography"
 \nocite{*}
 %-------------------------------------------------------------
-
 $for(publikationen)$
 $for(it.list)$
 \printbibliography[keyword={$it.key$}, title={$it.title$}$if(subbibliography)$, heading=subbibliography$endif$]
 $endfor$
 $endfor$
-
+$endif$
 
 \end{document}
