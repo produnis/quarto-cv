@@ -5,7 +5,7 @@ This repository contains a [quarto](https://quarto.org) extension designed to ge
 This extension is based on the [publicationlist](https://github.com/produnis/publicationlist) extension.
 
 
-![](https://www.produnis.de/blog/posts/2021-04-19-publikationsliste-im-lebenslauf-mit-latex/publikationslebenslauf.png)
+![](https://www.produnis.de/blog/posts/2021-04-19-publikationsliste-im-lebenslauf-mit-latex/lebenslauf.png)
 
 ## Installation
 
