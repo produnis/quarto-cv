@@ -15,7 +15,7 @@ To use this extension, execute the following command:
 
 
 ## Usage
-This extension uses the LaTeX document class "`moderncv`". Thus, all CV entries needs to be written in `LaTeX` code. Have a look at the example files coming with this extension for how to use them. In short,
+This extension uses the LaTeX document class "`moderncv`". Thus, all CV entries need to be written in `LaTeX` code. Have a look at the example files coming with this extension for how to use them. In short,
 
 - use `\cvline{KEY}{VALUE}` to create a new line entry, e.g. `\cvline{Name}{Albert Hastig}`.
 - use `\cventry{DATE}{VALUE1}{VALUE2}{VALUE3}{VALUE4}{VALUE5}` to create a new time line entry, e.g. `\cventry{1967-2001}{Professor for Everything}{Muppet Show}{Sesame Street}{}{}`
