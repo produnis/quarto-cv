@@ -118,7 +118,4 @@ If you have several bibliographies, you might want to switch the headings style 
 
 See `example-multi-bib.qmd` as an example.
 
-### Umlauts and ß
-
-All Umlauts are supported, but for **ß** you must type `\ss` in your documents.
 
